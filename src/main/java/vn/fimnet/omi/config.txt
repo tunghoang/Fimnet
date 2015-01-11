@@ -1,0 +1,7 @@
+vod_dir=/storage/webroot/vod
+free_dir=/opt/fimnet/vod/free
+subscription_dir=/opt/fimnet/vod/subscription
+premium_dir=/opt/fimnet/vod/premium
+free_stream_map=/opt/fimnet/streammap/free.txt
+subscription_stream_map=/opt/fimnet/streammap/subscription.txt
+premium_stream_map=/opt/fimnet/streammap/premium.txt
